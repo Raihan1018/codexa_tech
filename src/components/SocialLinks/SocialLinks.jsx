@@ -3,19 +3,19 @@ const SocialLinks = () => {
     {
       id: 1,
       iconPath: "/icons/facebook.svg",
-      url: "https://facebook.com/CodeXaTech",
+      url: "https://www.facebook.com/share/18rmDh63mR/",
       label: "Facebook",
     },
     {
       id: 2,
       iconPath: "/icons/linkedin.svg",
-      url: "https://linkedin.com/company/codexatech",
+      url: "https://linkedin.com/",
       label: "LinkedIn",
     },
     {
       id: 3,
       iconPath: "/icons/twitter.svg",
-      url: "https://twitter.com/CodeXaTech",
+      url: "https://x.com/",
       label: "X (Twitter)",
     },
   ];
